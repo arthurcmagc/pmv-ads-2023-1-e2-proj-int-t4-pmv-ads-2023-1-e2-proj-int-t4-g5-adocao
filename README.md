@@ -6,7 +6,7 @@
 
 `2 SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste trabalho é fornecer um site para conectar animais que precisam de um lar com pessoas que desejam adotar um animal de estimação, trazendo informações claras e acessíveis sobre os animais disponíveis e os procedimentos necessários para adotá-los. 
 
 ## Integrantes
 

@@ -1,46 +1,33 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Os animais domésticos fazem parte do dia-a-dia dos seres humanos desde os primórdios e proporcionam conforto, amizade, além de auxiliar no tratamento de doenças como a ansiedade e depressão. Por este motivo, muitas pessoas decidem adotar animais para se ajudarem, ajudar animais que vivem em vulnerabilidade e/ou auxiliar ONG’s.  
+
+O Brasil possui quase 185 mil (184.960) animais abandonados ou resgatados após maus-tratos, sob a tutela de organizações não governamentais (ONGs) e grupos de protetores. Desse total, 177.562 (96%) são cães e 7.398 (4%) são gatos. Os números são de um levantamento do Instituto Pet Brasil (IBP), realizado junto a 400 ONGs de todo o país que trabalham no acolhimento dos bichos. Segundo dados do Instituto, o número de animais de estimação em condição de vulnerabilidade mais do que dobrou no Brasil entre os anos de 2018 e 2020. Foi de 3,9 milhões para 8,8 milhões. A situação de vulnerabilidade é identificada nos bichos que vivem sob tutela das famílias classificadas abaixo da linha de pobreza ou que vivem nas ruas, mas recebem cuidados de pessoas ao redor, como comerciantes ou moradores da região. 
+
+Diante disso, torna-se fundamental que existam canais com informação e mecanismos que permitam a adoção de animais, a fim de reduzir esse número e dar aos animais uma chance de encontrar um lar. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Conforme exposto, o problema que se busca resolver com este projeto é reduzir o grande número de cães e gatos abandonados nas ruas, que muitas vezes são vítimas de maus tratos, fome e doenças.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é fornecer uma plataforma para conectar animais que precisam de um lar com pessoas que desejam adotar um animal de estimação, trazendo informações claras e acessíveis sobre os animais disponíveis e os procedimentos necessários para adotá-los. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos ressaltar: 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+*Conscientizar sobre a importância da adoção responsável e ajudar a reduzir o número de animais abandonados. 
+
+*Fornece funcionalidades que permitam simplificar o processo de adoção, fornecendo informações sobre os requisitos para adoção. 
+
+*Listar os animais disponíveis para adoção e fornecer informações detalhadas sobre cada animal, como idade, raça, temperamento e necessidades especiais. 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Muitos animais acabam abandonados ou em abrigos por uma série de razões, incluindo a mudança de circunstâncias familiares, falta de tempo ou dinheiro para cuidar do animal ou simplesmente por falta de planejamento. Por outro lado, muitas pessoas que estão procurando um animal de estimação podem não saber onde encontrá-los ou quais opções estão disponíveis para eles.  
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Um site de adoção de animais oferece diversas vantagens tanto para os animais quanto para as pessoas interessadas em adotá-los. Para os animais, um site de adoção pode aumentar a visibilidade deles, permitindo que mais pessoas tenham acesso a informações precisas sobre sua história, personalidade e necessidades específicas. Isso pode ajudar a encontrar um lar adequado para cada animal, garantindo um futuro mais feliz e seguro para eles. Por sua vez, para as pessoas interessadas em adotar um animal de estimação, um site de adoção pode oferecer uma forma prática e fácil de encontrar o animal que melhor se encaixa em suas necessidades e preferências. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Este projeto tem como público-alvo adultos que desejam adotar um animal de estimação e fornecer-lhe um lar amoroso e permanente. Isso pode incluir famílias, casais, solteiros, idosos e qualquer pessoa que esteja interessada em adotar um animal. 

@@ -10,12 +10,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem 
 
-<img src="img/persona_Marina.png"><br>
-<img src="img/Persona_Ana.png"><br>
-<img src="img/Persona_Carlos_Daniel.png"><br>
-<img src="img/Persona_Giovana.png"><br> 
-<img src="img/Persona_Luis_Felipe.png"><br>
-<img src="img/Persona_Samira.png"><br>
+<img src="img/persona_Marina.png"><br><br>
+<img src="img/Persona_Ana.png"><br><br>
+<img src="img/Persona_Carlos_Daniel.png"><br><br>
+<img src="img/Persona_Giovana.png"><br> <br>
+<img src="img/Persona_Luis_Felipe.png"><br><br>
+<img src="img/Persona_Samira.png"><br><br>
 
 ## Histórias de Usuários
 

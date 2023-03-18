@@ -16,11 +16,11 @@ O objetivo geral deste trabalho é fornecer uma plataforma para conectar animais
 
 Como objetivos específicos, podemos ressaltar: 
  
-*Conscientizar sobre a importância da adoção responsável e ajudar a reduzir o número de animais abandonados. 
+* Conscientizar sobre a importância da adoção responsável e ajudar a reduzir o número de animais abandonados. 
 
-*Fornece funcionalidades que permitam simplificar o processo de adoção, fornecendo informações sobre os requisitos para adoção. 
+* Fornecer funcionalidades que permitam simplificar o processo de adoção, fornecendo informações sobre os requisitos para adoção. 
 
-*Listar os animais disponíveis para adoção e fornecer informações detalhadas sobre cada animal, como idade, raça, temperamento e necessidades especiais. 
+* Listar os animais disponíveis para adoção e fornecer informações detalhadas sobre cada animal, como idade, raça, temperamento e necessidades especiais. 
 
 ## Justificativa
 

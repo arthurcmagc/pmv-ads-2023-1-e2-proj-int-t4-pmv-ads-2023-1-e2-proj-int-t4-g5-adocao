@@ -93,4 +93,4 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 ## Diagrama de Casos de Uso
 
 
-<img src="img/Diagrama_casos_de_uso.png">
+<img src="img/Diagrama_casos_de_uso.jpg">

@@ -28,9 +28,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Marina Alves        | Pesquisar animais específicos que  |
-|                    | atendam aos meus critérios. (RF-02)| Não esquecer de fazê-las               |
-|Marina Alves        | Alterar permissões                 | Permitir que possam administrar contas |
+|Marina Alves        | Pesquisar animais específicos que	
+                      atendam aos meus critérios. (RF-02) | Não esquecer de fazê-las               |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |

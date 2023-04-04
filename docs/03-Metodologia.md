@@ -55,9 +55,9 @@ O quadro kanban do grupo no Trello está disponível através da URL [https://tr
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada abaixo.  
 
-* **Repositório de código fonte**:(Github)[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g5-adocao]
-* **Documentos do projeto**:(One Drive)[https://sgapucminasbr-my.sharepoint.com/:w:/r/personal/1402443_sga_pucminas_br](https://sgapucminasbr-my.sharepoint.com/:w:/r/personal/1402443_sga_pucminas_br/_layouts/15/Doc.aspx?sourcedoc=%7B8F678682-54E8-4BD1-A63C-4B18A52513AB%7D&file=Projeto%20Ado%C3%A7%C3%A3o%20de%20animais.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=1402443%40sga.pucminas.br&ct=1680568613974&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=174d8939-f2f3-4717-9dca-abd1a213c186)
-* **Projeto de Interface e  Wireframes**:(Figma)[https://www.figma.com/file/a3eYU6a6JoysTJQObRdvpU/Projeto-Ado%C3%A7%C3%A3o-de-Animais?node-id=0-1]
-* **Gerenciamento do Projeto**:(Trello)[https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais]
+* **Repositório de código fonte**:[Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g5-adocao)
+* **Documentos do projeto**:[One Drive](https://sgapucminasbr-my.sharepoint.com/:w:/r/personal/1402443_sga_pucminas_br/_layouts/15/Doc.aspx?sourcedoc=%7B8F678682-54E8-4BD1-A63C-4B18A52513AB%7D&file=Projeto%20Ado%C3%A7%C3%A3o%20de%20animais.docx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=1402443%40sga.pucminas.br&ct=1680568613974&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=174d8939-f2f3-4717-9dca-abd1a213c186)
+* **Projeto de Interface e  Wireframes**:[Figma](https://www.figma.com/file/a3eYU6a6JoysTJQObRdvpU/Projeto-Ado%C3%A7%C3%A3o-de-Animais?node-id=0-1)
+* **Gerenciamento do Projeto**:[Trello](https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais)
 
 A documentação se encontra no Github, ferramente de fácil acesso à toda equipe. A ferramenta de comunicação utilizada permite a equipe verificar quais etapas foram concluidas e quais precisam fazer, além de permitir verificar se a equipe está se desenvolvendo de forma conjunta. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.

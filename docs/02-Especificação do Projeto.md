@@ -49,5 +49,3 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Diagrama de Casos de Uso
 
-
-<img src="img/Diagrama_casos_de_uso.jpg">

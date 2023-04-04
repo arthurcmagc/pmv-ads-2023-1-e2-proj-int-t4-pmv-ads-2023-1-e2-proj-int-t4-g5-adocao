@@ -18,22 +18,6 @@ O projeto segue a seguinte convenção para o nome de branches:
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
@@ -46,10 +30,10 @@ A equipe está organizada da seguinte maneira:
 * **Scrum master**: Mirian Oliveira
 * **Product Owner**: Iris Gabriela
 * **Equipe de Desenvolvimento**:
-* Arthur Barbosa
-* Brendon Oliveira
-* Enrico Menicucci  
-* Gustavo De Abreu 
+>Arthur Barbosa
+>Brendon Oliveira
+>Enrico Menicucci  
+>Gustavo De Abreu 
 
 
 ### Processo
@@ -64,25 +48,16 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo no Trello está disponível através da URL [https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais] e é apresentado abaixo:
 
-<img src=img/print_trello.png>
+<img src="img/print_trello.png">
 
 
 ### Ferramentas
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada abaixo.  
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+* **Repositório de código fonte**:(Github)[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-pmv-ads-2023-1-e2-proj-int-t4-g5-adocao]
+* **Documentos do projeto**:(One drive)[https://sgapucminasbr-my.sharepoint.com/:w:/r/personal/1402443]
+* **Projeto de Interface e  Wireframes**:(Figma)[https://www.figma.com/file/a3eYU6a6JoysTJQObRdvpU/Projeto-Ado%C3%A7%C3%A3o-de-Animais?node-id=0-1]
+* **Gerenciamento do Projeto**:(Trello)[https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais]
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+A documentação se encontra no Github, ferramente de fácil acesso à toda equipe. A ferramenta de comunicação utilizada permite a equipe verificar quais etapas foram concluidas e quais precisam fazer, além de permitir verificar se a equipe está se desenvolvendo de forma conjunta. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.

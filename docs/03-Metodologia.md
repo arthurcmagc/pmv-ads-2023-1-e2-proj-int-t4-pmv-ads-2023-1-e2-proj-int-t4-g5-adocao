@@ -32,7 +32,7 @@ A equipe está organizada da seguinte maneira:
 * **Equipe de Desenvolvimento**:
 >Arthur Barbosa<br>
 >Brendon Oliveira<br>
->Enrico Menicucci<br>  
+>Enrico Menicucci
 >Gustavo De Abreu <br>
 
 

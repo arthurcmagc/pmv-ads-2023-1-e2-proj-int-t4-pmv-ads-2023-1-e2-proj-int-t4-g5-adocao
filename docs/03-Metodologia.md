@@ -1,9 +1,9 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+
+https://www.figma.com/file/a3eYU6a6JoysTJQObRdvpU/Projeto-Ado%C3%A7%C3%A3o-de-Animais?node-id=0-1
 
 ## Controle de Versão
 
@@ -39,26 +39,35 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. 
+A equipe está organizada da seguinte maneira: 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+>Scrum Master: Mirian Oliveira 
+> Product Owner: Iris Gabriela
+>Equipe de Desenvolvimento :
+>Arthur Barbosa 
+>Brendon Oliveira  
+>Enrico Menicucci  
+>Gustavo De Abreu  
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:  
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+* **Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
+* **A fazer**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+* **Em andamento**: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+* **Em fase de teste**: Checagem de Qualidade. Quando as tarefas são concluídas, elas são movidas para o “CQ”. No final da semana, revemos essa lista para garantir que tudo saiu perfeito. 
+* **Concluído**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
+
+O quadro kanban do grupo no Trello está disponível através da URL [https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais]https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais e é apresentado abaixo:
+
+<img src=img/print_trello.png>
+
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada abaixo.  
 
 - Editor de código.
 - Ferramentas de comunicação

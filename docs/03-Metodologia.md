@@ -30,10 +30,10 @@ A equipe está organizada da seguinte maneira:
 * **Scrum master**: Mirian Oliveira
 * **Product Owner**: Iris Gabriela
 * **Equipe de Desenvolvimento**:
->Arthur Barbosa
->Brendon Oliveira
->Enrico Menicucci  
->Gustavo De Abreu 
+>Arthur Barbosa<br>
+>Brendon Oliveira<br>
+>Enrico Menicucci<br>  
+>Gustavo De Abreu <br>
 
 
 ### Processo

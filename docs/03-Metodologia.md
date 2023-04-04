@@ -3,7 +3,7 @@
 
 
 
-https://www.figma.com/file/a3eYU6a6JoysTJQObRdvpU/Projeto-Ado%C3%A7%C3%A3o-de-Animais?node-id=0-1
+A metodologia contempla as definições de ferramenta utilizado pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto. 
 
 ## Controle de Versão
 
@@ -42,13 +42,15 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. 
 A equipe está organizada da seguinte maneira: 
 
->Scrum Master: Mirian Oliveira 
-> Product Owner: Iris Gabriela
->Equipe de Desenvolvimento :
->Arthur Barbosa 
->Brendon Oliveira  
->Enrico Menicucci  
->Gustavo De Abreu  
+
+* **Scrum master**: Mirian Oliveira
+* **Product Owner**: Iris Gabriela
+* **Equipe de Desenvolvimento**:
+* Arthur Barbosa
+* Brendon Oliveira
+* Enrico Menicucci  
+* Gustavo De Abreu 
+
 
 ### Processo
 
@@ -60,7 +62,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 * **Em fase de teste**: Checagem de Qualidade. Quando as tarefas são concluídas, elas são movidas para o “CQ”. No final da semana, revemos essa lista para garantir que tudo saiu perfeito. 
 * **Concluído**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
 
-O quadro kanban do grupo no Trello está disponível através da URL [https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais]https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais e é apresentado abaixo:
+O quadro kanban do grupo no Trello está disponível através da URL [https://trello.com/b/p4ksokhj/projeto-ado%C3%A7%C3%A3o-de-animais] e é apresentado abaixo:
 
 <img src=img/print_trello.png>
 

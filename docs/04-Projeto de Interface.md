@@ -81,7 +81,7 @@ Esta tela fornece aos usuários informações e orientações sobre como denunci
 
 ### Tela- Login
 
-Esta tela permite ao usuário autenticar a sua identidade
+Esta tela permite ao usuário autenticar a sua identidade.
 
 <img src="img/wf_login.png">
 

@@ -57,27 +57,27 @@ A tela "Cadastro de animal: Cachorro" permite que os usuários anunciem um cacho
 
 Esta tela permite ao usuário ver a descrição completa do animal. Esta tela é exibida na forma de uma janela modal. 
 
-<img src="img/Wf_modal _ Detahes _ cão">
-<img src="img/Wf_modal _ detalhes _ Gato">
+<img src="img/Wf_det_cao">
+<img src="img/Wf_det_gato">
 
 
 ### Tela- Contato
 
 Esta tela permite ao usuário visualizar os contatos do anunciante. Esta tela é exibida na forma de uma janela modal. 
 
-<img src="img/Wf_modal _ contato">
+<img src="img/Wf_contato">
 
 ### Tela- Filtros
 
 Esta tela permite que os usuários encontrem animais com base em critérios específicos.Esta tela é exibida na forma de uma janela modal. 
 
-<img src="img/Wf_modal _ filtros">
+<img src="img/Wf_ filtros">
 
 ### Tela- Canais de Denúncia
 
 Esta tela fornece aos usuários informações e orientações sobre como denunciar maus-tratos ou abandono de animais. 
 
-<img src="img/Wf_canais_denuncia">
+<img src="img/Wf_denuncia">
 
 
 

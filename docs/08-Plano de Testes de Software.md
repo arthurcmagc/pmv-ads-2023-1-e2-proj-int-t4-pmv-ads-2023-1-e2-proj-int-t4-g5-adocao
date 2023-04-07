@@ -3,6 +3,7 @@
 
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
+<br><br><br>
 
 <img src="img/ct-01.png">
 <img src="img/ct-02.png">

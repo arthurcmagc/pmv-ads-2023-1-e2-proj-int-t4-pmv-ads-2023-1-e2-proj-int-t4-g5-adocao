@@ -13,7 +13,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <img src="img/Persona_Carlos_Daniel.png"><br><br>
 <img src="img/Persona_Giovana.png"><br> <br>
 <img src="img/Persona_Luis_Felipe.png"><br><br>
-<img src="img/persona_Samirasantos.png"><br><br>
+<img src="img/persona_Samirasantos.png"><br><br> 
 
 ## Histórias de Usuários
 

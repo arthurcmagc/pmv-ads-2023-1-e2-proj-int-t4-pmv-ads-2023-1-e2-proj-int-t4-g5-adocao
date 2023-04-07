@@ -19,7 +19,7 @@ Conforme o diagrama de fluxo do projeto, apresentado no item anterior, as telas 
  
 ### Tela - Home-Page
 
-A home page traz no cabeçalho a logo e 5 componentes: "Buscar pets", "Anunciar pets", "Canais de denuncia", "Sobre", "Contato". Abaixo do cabeçalho, vemos também o slogan do site e uma breve explicação de como funciona a aplicação.Por último uma seção de eventos de adoção.
+A home page traz no cabeçalho a logo e 5 componentes: "Buscar pets", "Anunciar pets", "Canais de denuncia" e  "Sobre". Abaixo do cabeçalho, vemos também o slogan do site e uma breve explicação de como funciona a aplicação.Por último uma seção de eventos de adoção.
 
 <img src="img/Wf_homepage.png">
 

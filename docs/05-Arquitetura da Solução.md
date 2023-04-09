@@ -19,8 +19,12 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 ## Projeto da Base de Dados
 
 O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
- 
-Para mais informações, consulte o microfundamento "Modelagem de Dados".
+
+<img src="img/base_dados.png">
+
+* A tabela "Usuario" armazena informações sobre os usuários do site, como nome, email, senha, telefone e cpf. Cada usuário é identificado pelo seu id único.
+* A tabela "Animal" armazena informações sobre os animais que podem ser adotados, como nome, idade, espécie, raça, gênero, descrição e foto. Cada animal é identificado pelo seu id único.
+* A tabela "Anuncio" armazena informações sobre os anúncios de adoção de animais, como título, e data de publicação, o id do usuário que criou o anúncio e o id do animal anunciado. Cada anúncio é identificado pelo seu id único.
 
 ## Tecnologias Utilizadas
 

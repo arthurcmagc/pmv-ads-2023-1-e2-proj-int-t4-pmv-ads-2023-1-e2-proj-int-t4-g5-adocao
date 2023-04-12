@@ -29,7 +29,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-<img src="img/requisitos_funcionais.png"><br>
+<img src="img/req_funcionais.png"><br>
 
 
 

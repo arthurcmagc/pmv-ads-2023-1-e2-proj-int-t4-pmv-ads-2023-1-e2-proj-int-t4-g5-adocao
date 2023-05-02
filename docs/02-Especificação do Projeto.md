@@ -29,7 +29,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-<img src="img/requisitos_funcionais.png"><br>
+<img src="img/req_funcionais.png"><br>
 
 
 
@@ -50,5 +50,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ## Diagrama de Casos de Uso
 
 
-<img src="img/diagrama_casosuso.png">
+<img src="img/diagrama_casos_uso.png">
 

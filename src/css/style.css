@@ -132,3 +132,14 @@ p {
 .etapa2 {
     padding-right: 50px;
 }
+
+.container {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+
+form {
+	display: inline-block;
+	text-align: left;
+}

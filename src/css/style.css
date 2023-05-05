@@ -11,19 +11,20 @@ body{
 }
 
 .logo {
-    color: #747474;
+    color: #3C2B24;
     font-size: 35px;
     font-weight: bold;
     text-decoration: none;
 }
 
 .navbar {
+    font-family: Poppins;
     list-style-type: none;
     display: flex;
     align-items: center;
     padding: 0;
     font-size: 17px;
-    background-color: #eeeeee;
+    background-color: #F58B61;
     border-radius: 13px;
 }
 
@@ -33,7 +34,7 @@ body{
 
 .navbar li a {
     display: block;
-    color: #5a5a5a;
+    color: #3C2B24;
     text-align: center;
     padding-top: 14px;
     padding-bottom: 14px;
@@ -62,14 +63,14 @@ body{
 }
 
 .login {
-    color: #747474;
+    color: #3C2B24;
     font-size: 17px;
     font-weight: bold;
     text-decoration: none;
 }
 
 .intro {
-    background-color: #eeeeee;
+    background-color: #fafafa;
     height: 422px;
     display: flex;
     align-items: center;
